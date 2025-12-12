@@ -1,0 +1,64 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url("7901109.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.menu{
+    width:80%;
+    background-color: burlywood;
+    margin-left:auto;
+    margin-right: auto;
+    padding:20px ;
+    max-width:500px;
+    text-align:center;
+    
+
+}
+h1{
+    font-family:sans-serif;
+    text-align: center;
+    text-decoration: solid; 
+    font-weight: bold;
+}
+.cena{
+    font-weight: bold;
+}
+.vyber{
+    list-style: none;
+    padding: 0;
+
+}
+.vyber li{
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+    font-size: 15px;
+
+
+}
+footer{
+    text-align:center;
+    margin-top:24px;
+    font-size:10px;
+    color:rgb(53, 20, 11)
+}
+.obrazek{
+    
+   max-width:48px;
+   max-height:36px;
+}
+.dortik{
+    max-width:48px;
+    max-height:36px;
+}
+.carecka{
+    border:none;
+    height:2px;
+    background-color: brown;
+    margin:10px 
+}
+.tetx{
+    font-style:italic;
+}
